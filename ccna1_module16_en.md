@@ -1,6 +1,6 @@
 # CCNA1 – Module 16: Network Security Fundamentals
 > CCNA1 · Introduction to Networks v7.0 (ITN)  
-> Gökhan AKIN – CCIE | Ozan BÜK – CCIE
+
 
 ---
 
