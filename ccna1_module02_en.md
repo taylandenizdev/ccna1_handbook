@@ -1,5 +1,5 @@
 # CCNA1 – Module 2: Basic Switch and End Device Configuration
-> CCNA Introduction to Networks v7.0 (ITN) | Gökhan AKIN & Ozan BÜK – CCIE
+> CCNA Introduction to Networks v7.0 (ITN) 
 
 ---
 
