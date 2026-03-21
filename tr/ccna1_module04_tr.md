@@ -1,6 +1,6 @@
 # 📡 Modül 4: Fiziksel Katman (1. Katman)
 > **CCNA1 – Introduction to Networks v7.0 (ITN)**  
-> Gökhan AKIN - CCIE | Ozan BÜK - CCIE
+
 
 ---
 
