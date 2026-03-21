@@ -1,6 +1,6 @@
 # CCNA1 - Module 14: Transport Layer (L4)
 > **Source:** Cisco Networking Academy — Introduction to Networks v7.0 (ITN)  
-> **Instructors:** Gökhan AKIN - CCIE | Ozan BÜK - CCIE
+
 
 ---
 
