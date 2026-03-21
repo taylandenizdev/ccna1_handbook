@@ -534,7 +534,7 @@ PPP — Shortest header (point-to-point):
 
 ---
 
-> **📌 Next Module:** Detailed look at Ethernet technology and MAC addresses.
+
 
 ---
 *CCNA1 – Introduction to Networks v7.0 | Module 6*

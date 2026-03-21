@@ -1,6 +1,6 @@
 # CCNA1 – Modül 8: Ağ Katmanı (3. Katman)
 > **Cisco CCNA1 – Introduction to Networks v7.0 (ITN)**  
-> Kaynak: Gökhan AKIN - CCIE | Ozan BÜK - CCIE
+
 
 ---
 

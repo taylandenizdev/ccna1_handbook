@@ -1,5 +1,5 @@
 # CCNA1 – Modül 10: Temel Yönlendirici Yapılandırması
-> CCNA Introduction to Networks v7.0 (ITN) | Gökhan AKIN & Ozan BÜK – CCIE
+
 
 ---
 

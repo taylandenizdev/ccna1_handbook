@@ -1,6 +1,7 @@
 # 🔢 Modül 5: Sayı Sistemleri
 > **CCNA1 – Introduction to Networks v7.0 (ITN)**  
-> Gökhan AKIN - CCIE | Ozan BÜK - CCIE
+
+
 
 ---
 
