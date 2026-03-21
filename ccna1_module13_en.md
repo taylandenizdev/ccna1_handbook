@@ -1,6 +1,6 @@
 # CCNA1 - Module 13: ICMP (Internet Control Message Protocol)
 > **Source:** Cisco Networking Academy — Introduction to Networks v7.0 (ITN)  
-> **Instructors:** Gökhan AKIN - CCIE | Ozan BÜK - CCIE
+
 
 ---
 
