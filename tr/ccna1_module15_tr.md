@@ -1,7 +1,7 @@
 # CCNA1 – Modül 15: Uygulama Katmanı
 > **Application Layer**  
 > CCNA1 · Introduction to Networks v7.0 (ITN)  
-> Gökhan AKIN – CCIE | Ozan BÜK – CCIE
+
 
 ---
 
