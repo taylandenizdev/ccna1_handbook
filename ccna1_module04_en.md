@@ -1,6 +1,6 @@
 # 📡 Module 4: Physical Layer (Layer 1)
 > **CCNA1 – Introduction to Networks v7.0 (ITN)**  
-> Gökhan AKIN - CCIE | Ozan BÜK - CCIE
+
 
 ---
 
