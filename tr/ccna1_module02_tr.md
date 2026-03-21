@@ -1,5 +1,5 @@
 # CCNA1 – Modül 2: Temel Switch ve Son Kullanıcı Yapılandırması
-> CCNA Introduction to Networks v7.0 (ITN) | Gökhan AKIN & Ozan BÜK – CCIE
+> CCNA Introduction to Networks v7.0 (ITN) 
 
 ---
 
