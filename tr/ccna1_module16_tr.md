@@ -1,7 +1,7 @@
 # CCNA1 – Modül 16: Ağ Güvenliği Temelleri
 > **Network Security Fundamentals**  
 > CCNA1 · Introduction to Networks v7.0 (ITN)  
-> Gökhan AKIN – CCIE | Ozan BÜK – CCIE
+
 
 ---
 
