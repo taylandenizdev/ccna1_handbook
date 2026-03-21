@@ -736,7 +736,7 @@ Key Fields to Remember:
 
 ---
 
-> 📘 **Next Module:** Module 9 – Address Resolution (Subnetting & IPv4 Addressing)
+
 
 ---
 
