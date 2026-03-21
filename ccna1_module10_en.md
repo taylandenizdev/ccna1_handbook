@@ -1,5 +1,6 @@
 # CCNA1 – Module 10: Basic Router Configuration
-> CCNA Introduction to Networks v7.0 (ITN) | Gökhan AKIN & Ozan BÜK – CCIE
+> CCNA Introduction to Networks v7.0 (ITN) |
+
 
 ---
 
