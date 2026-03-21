@@ -1,6 +1,6 @@
 # CCNA1 - Modül 14: Taşıma Katmanı (Transport Layer – L4)
 > **Kaynak:** Cisco Networking Academy — Introduction to Networks v7.0 (ITN)  
-> **Eğitmenler:** Gökhan AKIN - CCIE | Ozan BÜK - CCIE
+
 
 ---
 
