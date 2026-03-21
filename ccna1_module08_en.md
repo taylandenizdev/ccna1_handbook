@@ -1,6 +1,7 @@
 # CCNA1 – Module 8: The Network Layer (Layer 3)
 > **Cisco CCNA1 – Introduction to Networks v7.0 (ITN)**  
-> Source: Gökhan AKIN - CCIE | Ozan BÜK - CCIE
+
+
 
 ---
 
