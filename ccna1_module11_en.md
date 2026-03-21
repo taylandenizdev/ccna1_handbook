@@ -1,7 +1,6 @@
 # 📘 Module 11: IPv4 Addressing
 > **CCNA1 – Introduction to Networks v7.0 (ITN)**  
-> Source: Cisco Networking Academy  
-> *(Compiled from two video transcripts)*
+
 
 ---
 
