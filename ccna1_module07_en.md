@@ -502,7 +502,7 @@ Commands:
 
 ---
 
-> **📌 Next Module:** IPv4 Addressing — IP address structure and subnetting.
+
 
 ---
 *CCNA1 – Introduction to Networks v7.0 | Module 7*
