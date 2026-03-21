@@ -608,5 +608,4 @@ Switch(config)# no ip http secure-server
 ---
 
 *Cisco CCNA1 · Introduction to Networks v7.0 · Modül 16*  
-*Gökhan AKIN – CCIE · gokhan@agyoneticileri.org*  
-*Ozan BÜK – CCIE · ozan@agyoneticileri.org*
+
