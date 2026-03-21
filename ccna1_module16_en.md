@@ -1,6 +1,6 @@
 # CCNA1 – Module 16: Network Security Fundamentals
 > CCNA1 · Introduction to Networks v7.0 (ITN)  
-> Gökhan AKIN – CCIE | Ozan BÜK – CCIE
+
 
 ---
 
@@ -602,5 +602,4 @@ Switch(config)# no ip http secure-server
 ---
 
 *Cisco CCNA1 · Introduction to Networks v7.0 · Module 16*  
-*Gökhan AKIN – CCIE · gokhan@agyoneticileri.org*  
-*Ozan BÜK – CCIE · ozan@agyoneticileri.org*
+
