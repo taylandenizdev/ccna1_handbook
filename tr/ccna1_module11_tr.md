@@ -1,7 +1,7 @@
 # 📘 Modül 11: IPv4 Adresleme
 > **CCNA1 – Introduction to Networks v7.0 (ITN)**  
 > Kaynak: Cisco Networking Academy  
-> *(İki video transkriptinden derlenmiştir)*
+
 
 ---
 
